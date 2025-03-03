@@ -124,7 +124,7 @@ main {
     font-family: 'Zerove', sans-serif;  /* Use your custom font */
     font-size: 32px;  /* Adjust as needed */
     font-weight: bold;
-    color: #d0d0d0;  /* Light gray */
-    text-align: center;
+    color: #FFFFFF;  /* Light gray */
+    text-align: start-flex;
     margin-bottom: 20px;
 }

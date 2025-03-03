@@ -128,3 +128,23 @@ main {
     text-align: start-flex;
     margin-bottom: 20px;
 }
+
+.about-section {
+    text-align: left; /* Aligns all text inside this section to the left */
+    max-width: 600px; /* Keeps text from stretching too wide */
+    margin: 0 auto; /* Centers the section itself but keeps text aligned left */
+    padding: 20px;
+}
+
+.about-section h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #d0d0d0;
+    margin-bottom: 10px;
+}
+
+.about-section p {
+    font-size: 18px;
+    color: #d0d0d0;
+    line-height: 1.5;
+}

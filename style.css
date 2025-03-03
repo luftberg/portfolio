@@ -55,7 +55,7 @@ main {
     text-align: center;
     display: flex;
     align-items: center;
-    justify-content: start;
+    justify-content: center;
 }
 
 .content {
@@ -75,7 +75,7 @@ main {
     text-decoration: underline;
     padding: 8px 16px;
     border: 1px solid #666;  /* Grey border */
-    border-radius: 5px;  /* Slightly rounded corners */
+    border-radius: 10px;  /* Slightly rounded corners */
     transition: all 0.3s ease-in-out;
 }
 

@@ -119,3 +119,12 @@ main {
 .project img:hover {
     transform: scale(1.05);
 }
+
+.portfolio-title {
+    font-family: 'Zerove', sans-serif;  /* Use your custom font */
+    font-size: 32px;  /* Adjust as needed */
+    font-weight: bold;
+    color: #d0d0d0;  /* Light gray */
+    text-align: center;
+    margin-bottom: 20px;
+}
